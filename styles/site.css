@@ -4,19 +4,13 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
-  background: #181818;
+  background: #333;
   margin: 0px;
   padding: 0px;
 }
 a {
   text-decoration: none;
   color: #000;
-}
-.sections.about,
-.section.about {
-  width: 200px;
-  height: 200px;
-  background: #ddd;
 }
 .sections a,
 .section a {
@@ -27,6 +21,12 @@ a {
 .sections a:hover,
 .section a:hover {
   color: #eee;
+}
+.sections .about,
+.section .about {
+  width: 200px;
+  height: 200px;
+  background: #ddd;
 }
 .sections .tumblr,
 .section .tumblr {
@@ -48,27 +48,6 @@ a {
 .section .email {
   background: #39cccc;
 }
-.sections.off-left,
-.section.off-left {
-  left: -100%;
-}
-.sections.off-right,
-.section.off-right {
-  left: 100%;
-}
-.sections .content,
-.section .content {
-  margin-left: -400px;
-  margin-top: -300px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  padding-top: 10px;
-  text-align: center;
-  background: #fff;
-  -webkit-box-shadow: 0px 0px 5px 0px #888;
-  box-shadow: 0px 0px 5px 0px #888;
-}
 .avatar {
   display: inline-block;
   -webkit-box-shadow: 0px 0px 1px 0px #888;
@@ -87,14 +66,4 @@ a {
 .title {
   margin-top: 5px;
   font-size: 48px;
-}
-.screen {
-  opacity: 0.4;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-  filter: alpha(opacity=40);
-}
-.screen:hover {
-  opacity: 1;
-  -ms-filter: none;
-  filter: none;
 }
