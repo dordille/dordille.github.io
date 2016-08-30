@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/danordille
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danordille.com
+  * I am danordille (https://keybase.io/danordille) on keybase.
+  * I have a public key with fingerprint 3519 7F9C 696D FC30 44E6  49FD EB68 1B5A 0A52 BD98
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120507b901fd62f41d73edd1dfae041e35dc35d12b2a7c23a5726457e5d237259bf0a",
+            "fingerprint": "35197f9c696dfc3044e649fdeb681b5a0a52bd98",
+            "host": "keybase.io",
+            "key_id": "eb681b5a0a52bd98",
+            "kid": "010168ac127492d764a9defd96387b00bc1bec5f894491379615936281993ff67a2a0a",
+            "uid": "3855a51c50d7eb2a345f1a63269d4519",
+            "username": "danordille"
+        },
+        "service": {
+            "hostname": "danordille.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472595317,
+    "expire_in": 157680000,
+    "prev": "e6dc324029845010d15035098560600accdbda1f1e7585879391f8ce2103ee88",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ/UBRVHL8TcOiQhiCOKTW5nTRQon27+/bHOTT0C2cQGgMJ+Xns7nsL
+K3B73R0HDEKjDKUTlJSM/GgmQ9IkJAukQnHCtF8oGlY6YcmAA0GXQ5lhwWC7TP5V
+b+bNm/d9n8/nfb6f986EBpgs5l+KVmZb0gaazUODrWWmzM+DyqoISUOVhL2KKMZL
+Cy5B2ON1FKuIsBMkoEhIcpJAAgWxlMIAxNEYIYAUEZMMwDREsj4BJVEiJ1O0CDmK
+ZSCHIaJojoKCpJAiEUcoqrMQu11u1enVZWkIBE4RZFZgkSLTJMNglhEUhCWWBxIU
+SRFSEhJ4nVikeQyGbk4SPThe1fSavnEs2fsf/F3fJGB5UQYUxwgU4lhGFBBWkMDS
+PCeRpCQDCctQ4QWGEQDNCSyAAs1SPBAEWlFYTqTEJd9lS3I0D6EIgQxJxGG9U5qB
+ChBZmmIFxOi9GEAPdjvFUqyjkejU3EgtKcFEdRyh132qjI1ojV7+g4mXtVKd73Jr
+Xk3WSvSzIq/XZTeo3kqXgS3HkuNfFYekOpEepU7wYbdH1ZyEHehI2asasoAxIoc0
+4OIIXOFS3dihGgjIsTypD+Ma7DOCY/VnoxiSEngG6mEhAEkakgIPWZIlSVGWkYRE
+oADMQR7ynEALQOFlTAGSxpg3gvbgF5waYed1m2KhLulRC52it8ytN316MDfQZLaY
+lgctM76YyXJP2N2Pd25PmOlCb5RtfaOXSQL7MkybDmdWLSMLNk+kB96cTMrbOPds
+6NflX9y0rbl+tC56/NDLW6cLqrumIxdSI8e+7Tgwu3rvX6sm13Y2Pvrn5vrWnNcO
+7s+bvL81/qKQespTZ3Uv+vqLBnzpz+1qzXzgwm80G99PJQQHt2X5IxZjzeUTOzyb
+mmLIuZGHw6ey5zK+ubPuWsvCnGt+Lj/f8v6vWVYf7RfTmVfrh2sb+hxNO988PxZe
+k/ZVhf27R5q7Xi/o/6i15smFuJm3y/hn8m1Tn12Xu3NPuzaE71dC2h9n6dqNu9vX
+ft8QGjblPf7iuD0q6nfUMWXxHxvK673vy4O52ktB6yVrhCmyt5ZIPdHQfCfh2jZL
+35HdbZ2O5G5hOZw5m3w4OaZ+S/TI05fkxA+eODOfVjxx8eRYRF3Gsu1XP9522Zb6
+CbNmPCAnmvkp6GjvH69Ud4+usJK9x89NhgQ29qzMsp1M6dyaK4Rm3Boev/RWy0B2
+bNDoyPRie8gUodzouWrNLm0aCsmL+bkjug2tGKbmc4Jux/bZ/Kt3PZ+0d88boR0/
+ln/YXFJ4zP/gkYZDJ3zmbmvajZlTUaOJk+WztEVL2FmYcSBx37vNP1wBV7Y8dbYl
+a3sn7rpdMbhKSQm2aeetf6f0FL8X0PdQzYbkd9alqr7LlqTK4Cg/lRwpzo4+FrZj
+bPDTW5nd1LCWar73Hzvktvo=
+=9dw+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danordille
+
+==================================================================
