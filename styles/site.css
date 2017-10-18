@@ -12,6 +12,11 @@ a {
   text-decoration: none;
   color: #000;
 }
+#noVNC_canvas {
+  width: 640px;
+  height: 480px;
+  background: #fff;
+}
 .sections a,
 .section a {
   padding: 2px;

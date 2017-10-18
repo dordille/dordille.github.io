@@ -1,12 +1,22 @@
 {
   "devDependencies": {
-    "gulp-util": "~2.2.9",
     "gulp": "~3.3.1",
-    "gulp-jade": "~0.3.0",
     "gulp-coffee": "~1.2.5",
+    "gulp-jade": "~0.3.0",
     "gulp-livereload": "~0.2.0",
-    "tiny-lr": "0.0.5",
     "gulp-stylus": "0.0.7",
-    "nib": "latest"
+    "gulp-util": "~2.2.9",
+    "nib": "latest",
+    "tiny-lr": "0.0.5"
+  },
+  "name": "dordille.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dordille/dordille.github.io.git",
+  "author": "Dan Ordille <dordille@gmail.com>",
+  "license": "NONE",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1",
+    "novnc-node": "^0.5.3"
   }
 }
