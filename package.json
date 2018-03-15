@@ -16,6 +16,7 @@
   "author": "Dan Ordille <dordille@gmail.com>",
   "license": "NONE",
   "dependencies": {
+    "coffeescript": "^2.2.3",
     "gulp-browserify": "^0.5.1",
     "novnc-node": "^0.5.3"
   }

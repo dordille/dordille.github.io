@@ -1,5 +1,10 @@
 noVNC = require 'novnc-node'
 
+fetch('http://35.194.80.84/session').then (res) ->
+	console.log(res)
+	
+
+socket = new WebSocket('ws://35.194.80.84/socket')
 
 onVNCCopyCut = (rfb, text) ->
 	return

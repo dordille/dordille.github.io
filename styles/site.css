@@ -4,7 +4,7 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
-  background: #333;
+  background: #ddd;
   margin: 0px;
   padding: 0px;
 }
@@ -39,9 +39,7 @@ a {
 }
 .sections .about,
 .section .about {
-  width: 200px;
-  height: 200px;
-  background: #ddd;
+  width: 300px;
 }
 .sections .tumblr,
 .section .tumblr {
@@ -74,6 +72,14 @@ a {
 .sections .pizzatext:hover:before,
 .section .pizzatext:hover:before {
   background: #ff851b;
+}
+.sections .nine,
+.section .nine {
+  background: #553d63;
+}
+.sections .nine:hover:before,
+.section .nine:hover:before {
+  background: #553d63;
 }
 .sections .github,
 .section .github {
