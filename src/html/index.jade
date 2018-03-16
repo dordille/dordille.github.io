@@ -3,6 +3,12 @@ html.no-js(lang='en')
     meta(charset='utf-8')
     link(href='styles/site.css', rel='stylesheet', type='text/css')
     link(href='images/favicon.png', rel='icon', type='image/png')
+    script(async src="https://www.googletagmanager.com/gtag/js?id=UA-115905467-1")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-115905467-1');
     title Dan Ordille
   body
     div.sections
